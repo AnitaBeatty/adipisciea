@@ -1,0 +1,24 @@
+{
+  "name": "adipisciea",
+  "version": "1.0.0",
+  "description": "A set of tools for working with Web3 and Ethereum smart contracts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web3",
+    "ea",
+    "error"
+  ],
+  "author": "TheodoraLubowitz",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnitaBeatty/adipisciea.git"
+  },
+  "homepage": "https://github.com/AnitaBeatty/adipisciea.git"
+}
